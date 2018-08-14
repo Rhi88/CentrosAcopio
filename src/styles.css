@@ -43,7 +43,7 @@ nav ul li:hover{
     text-decoration-style: none;
     color: #edffc2;
     border-radius: 25px;
-    padding: 2px 2px 2px 2px;
+    /*padding: 2px 2px 2px 2px;*/
 }
 
 .contenedor{
