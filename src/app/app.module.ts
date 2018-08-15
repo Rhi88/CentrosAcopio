@@ -12,6 +12,7 @@ import { ElectronicosComponent } from './electronicos/electronicos.component';
 //AngularMaps
 
 import {AgmCoreModule} from '@agm/core';
+import { FooterComponent } from './footer/footer.component';
 
 @NgModule({
   declarations: [
@@ -21,6 +22,7 @@ import {AgmCoreModule} from '@agm/core';
     AceitecomComponent,
     AceiteautoComponent,
     ElectronicosComponent,
+    FooterComponent,
    
   ],
   imports: [

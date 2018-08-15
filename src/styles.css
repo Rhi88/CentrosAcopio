@@ -94,15 +94,7 @@ h3{
     
 }
  
-.footer{
-    position:bottom sticky;
-    margin-top:20px;
-    height: 100%;
-    color: #212121;
-    border-style: groove;   
-    display:block;
-    background:#757575;
-}
+
 @media screen and (max-width: 600px) {
 
 
